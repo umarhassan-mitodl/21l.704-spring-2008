@@ -3,6 +3,8 @@ content_type: page
 description: The syllabus section provides the course description and information
   on required texts, writing assignments, and the schedule of lecture topics and key
   dates for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,7 +25,7 @@ As a seminar, the subject will place special emphasis on student involvement and
 
 It is my presumption that all work you present or submit is your own. Which raises the troublesome issue of plagiarism, the use of another's intellectual work without proper acknowledgement. This is a very serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and also that the instructor will turn the matter over to the Committee on Discipline. Please note that these responses are not within my power to vary or bypass.
 
-Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. Ideas, arguments, and direct phrasings taken from someone else's work must be labeled and properly footnoted. Further guidance on the proper forms of attribution may be found in the style guides available in the Writing and Communication Center, and at the {{% resource_link "2e476528-6f08-4311-9791-be7105d45d83" "MIT Web site" %}} on plagiarism.
+Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. Ideas, arguments, and direct phrasings taken from someone else's work must be labeled and properly footnoted. Further guidance on the proper forms of attribution may be found in the style guides available in the Writing and Communication Center, and at the [MIT Web site](http://web.mit.edu/writing/index.html) on plagiarism.
 
 Required Texts
 --------------
